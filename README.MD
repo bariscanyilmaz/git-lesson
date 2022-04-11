@@ -5,5 +5,4 @@
 - [X] Add commit message
 - [X] Add Remote repository
 - [X] Push to remote 
-- [ ] Pull from Remote
-
+- [X] Pull from Remote
