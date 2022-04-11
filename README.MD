@@ -1,8 +1,9 @@
 # Git Lesson 
 
-* Init git
-* Add files to git
-* Add commit message
-* Add Remote repository
-* Push to remote 
-* Pull from remote
+- [X] Init git
+- [X] Add files to git
+- [X] Add commit message
+- [X] Add Remote repository
+- [X] Push to remote 
+- [ ] Pull from Remote
+
