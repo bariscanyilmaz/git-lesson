@@ -11,7 +11,7 @@
 - [X] Push to new branch
 - [X] Merge New branch to main
 - [X] Rebase new branch to mian
-- [ ] Add .gitignore
+- [X] Add .gitignore
 - [ ] Fork
 - [ ] Pull 
 - [ ] Push
